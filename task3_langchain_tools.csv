@@ -1,0 +1,4 @@
+tool_name,parameters,docstring
+get_team_head_to_head,"team_a, team_b",Exact supplied-dataset record for team A versus team B.
+get_player_season_stats,"player_name, year",Exact regular-season statistics for a player and year.
+get_player_match_stats,"player_name, year, round_name","Exact round-level statistics for a player, year and round."

@@ -1,0 +1,11 @@
+turn,role,message
+1,USER,Tell me about Collingwood's record against Richmond.
+2,ASSISTANT,"The supplied dataset has 52 matches: 30 wins, 21 losses and 1 draw."
+3,USER,Which player from that team should I look at?
+4,ASSISTANT,Scott Pendlebury is listed with Collingwood Magpies.
+5,USER,What are his 2025 numbers?
+6,ASSISTANT,His 2025 regular-season row shows 23.2 average disposals over 20 games.
+7,USER,How does that compare to his career average?
+8,ASSISTANT,"The supplied table has season averages, not one career-average field, so I will not invent one."
+9,USER,What about the round before that?
+10,ASSISTANT,I need a specific round/year to resolve that safely; I will not guess.
